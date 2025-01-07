@@ -7,6 +7,7 @@ import "./globals.css";
 
 const mona = Mona_Sans({
   weight: ["400", "500", "600", "700"],
+  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
